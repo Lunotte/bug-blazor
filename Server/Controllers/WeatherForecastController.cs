@@ -1,7 +1,7 @@
-using BugBlazor.Shared;
+using BugBlazor2.Shared;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BugBlazor.Server.Controllers
+namespace BugBlazor2.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

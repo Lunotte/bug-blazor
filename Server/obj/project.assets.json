@@ -400,28 +400,28 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "BugBlazor.Client/1.0.0": {
+      "BugBlazor2.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "BugBlazor.Shared": "1.0.0",
+          "BugBlazor2.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.7"
         },
         "compile": {
-          "bin/placeholder/BugBlazor.Client.dll": {}
+          "bin/placeholder/BugBlazor2.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BugBlazor.Client.dll": {}
+          "bin/placeholder/BugBlazor2.Client.dll": {}
         }
       },
-      "BugBlazor.Shared/1.0.0": {
+      "BugBlazor2.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/BugBlazor.Shared.dll": {}
+          "bin/placeholder/BugBlazor2.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BugBlazor.Shared.dll": {}
+          "bin/placeholder/BugBlazor2.Shared.dll": {}
         }
       }
     }
@@ -1087,21 +1087,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "BugBlazor.Client/1.0.0": {
+    "BugBlazor2.Client/1.0.0": {
       "type": "project",
-      "path": "../Client/BugBlazor.Client.csproj",
-      "msbuildProject": "../Client/BugBlazor.Client.csproj"
+      "path": "../Client/BugBlazor2.Client.csproj",
+      "msbuildProject": "../Client/BugBlazor2.Client.csproj"
     },
-    "BugBlazor.Shared/1.0.0": {
+    "BugBlazor2.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/BugBlazor.Shared.csproj",
-      "msbuildProject": "../Shared/BugBlazor.Shared.csproj"
+      "path": "../Shared/BugBlazor2.Shared.csproj",
+      "msbuildProject": "../Shared/BugBlazor2.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BugBlazor.Client >= 1.0.0",
-      "BugBlazor.Shared >= 1.0.0",
+      "BugBlazor2.Client >= 1.0.0",
+      "BugBlazor2.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 6.0.7"
     ]
   },
@@ -1112,11 +1112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj",
-      "projectName": "BugBlazor.Server",
-      "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj",
+      "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor2.Server.csproj",
+      "projectName": "BugBlazor2.Server",
+      "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor2.Server.csproj",
       "packagesPath": "C:\\Users\\squemene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\obj\\",
+      "outputPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1136,11 +1136,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj": {
-              "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj"
+            "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj": {
+              "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj"
             },
-            "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
-              "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj"
+            "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj": {
+              "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj"
             }
           }
         }

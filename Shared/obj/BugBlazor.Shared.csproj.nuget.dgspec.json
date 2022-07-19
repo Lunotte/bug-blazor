@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {}
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
         "projectName": "BugBlazor.Shared",
-        "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
+        "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
         "packagesPath": "C:\\Users\\squemene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

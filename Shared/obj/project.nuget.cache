@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufqTBxT/9xqoD8D+uQ0pv/x6DKYnqqQ/Zjm63j5cShhPHwxHEkIsHqk1djWYuvHBe+EBQ0A6yOwwkQQSheVDbg==",
+  "dgSpecHash": "wYpzrnhN20sVcYfEAlVMlsWx0aSS7adf1kBfWsLrfigTqexTJWL2tRt5SPdGKfoq094e1YkQTI97VhA9ZsYYdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj": {}
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj": {
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj",
-        "projectName": "BugBlazor.Client",
-        "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj",
+        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj",
+        "projectName": "BugBlazor2.Client",
+        "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj",
         "packagesPath": "C:\\Users\\squemene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\obj\\",
+        "outputPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj"
+              "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj": {
+                "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj": {
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj",
+        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor.Server.csproj",
         "projectName": "BugBlazor.Server",
-        "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj",
+        "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor.Server.csproj",
         "packagesPath": "C:\\Users\\squemene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\obj\\",
+        "outputPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,11 +108,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj": {
-                "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Client\\BugBlazor.Client.csproj"
+              "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj": {
+                "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Client\\BugBlazor2.Client.csproj"
               },
-              "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj"
+              "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj": {
+                "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj": {
+    "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
-        "projectName": "BugBlazor.Shared",
-        "projectPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\BugBlazor.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj",
+        "projectName": "BugBlazor2.Shared",
+        "projectPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\BugBlazor2.Shared.csproj",
         "packagesPath": "C:\\Users\\squemene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

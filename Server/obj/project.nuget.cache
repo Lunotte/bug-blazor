@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gEWgCH1FXHoLgFcc0Smf1Ma97zFNaaWx3JzmHfPsxO+cI36qwb7qv8DYlDPfnQfx9tus4N6GheMT0+RcB2B8w==",
+  "dgSpecHash": "lk9fOwD+p1HewM88+YfmgE/4Rykek19ZhxQ0hj0+YNALxjZikk18KddZ0Z0Uli/tTVTE0QnGnw/SCgxdhTQThQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\squemene\\source\\repos\\BugBlazor\\Server\\BugBlazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\squemene\\source\\repos\\bug\\BugBlazor\\Server\\BugBlazor2.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\squemene\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\squemene\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",

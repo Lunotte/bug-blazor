@@ -1,4 +1,4 @@
-namespace BugBlazor.Shared
+namespace BugBlazor2.Shared
 {
     public class WeatherForecast
     {
